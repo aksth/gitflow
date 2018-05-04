@@ -26,3 +26,5 @@ nothing, just empty project for testing gitflow
 - release akash 1
 
 ERP-Vfirstrelease
+
+-- hotfix 1
