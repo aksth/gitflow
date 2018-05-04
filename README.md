@@ -9,4 +9,12 @@ nothing, just empty project for testing gitflow
 
 - third feature add by smriti
 
+
 - third feature add by smriti 2
+
+- third feature add by akash 2
+
+- 4th by akash 1
+
+- 4th by smriti 1
+
