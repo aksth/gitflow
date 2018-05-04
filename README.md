@@ -6,3 +6,5 @@ nothing, just empty project for testing gitflow
 - second feature add
 
 - third feature add
+
+- third feature add by smriti
